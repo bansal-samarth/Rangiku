@@ -317,7 +317,7 @@ const CheckOutPage = () => {
       )}
 
       <div className="mt-8 text-center text-green-600 text-xs">
-        © 2025 Visitor Management System
+        © 2025 ServiceInSync
       </div>
     </div>
   );

@@ -134,7 +134,7 @@ const CheckInPage = () => {
         <div className="space-y-6">
           <div className="bg-green-50 rounded-lg p-4 text-center">
             <p className="text-green-800 font-medium">
-              Welcome to the visitor management system
+              Welcome to the ServiceInSync
             </p>
             <p className="text-green-600 text-sm mt-1">
               Scan your QR code to check in 
@@ -314,7 +314,7 @@ const CheckInPage = () => {
       )}
 
       <div className="mt-8 text-center text-green-600 text-xs">
-        © 2025 Visitor Management System
+        © 2025 ServiceInSync
       </div>
     </div>
   );

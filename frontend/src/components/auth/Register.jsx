@@ -210,7 +210,7 @@ const Register = () => {
               <div className="bg-white/10 p-6 rounded-xl backdrop-blur-sm">
                 <h3 className="text-xl font-semibold text-white mb-2">Join Our Platform</h3>
                 <p className="text-emerald-100">
-                  Access powerful tools for visitor management, digital check-ins, and detailed analytics
+                  Access powerful tools for Services, digital check-ins, and detailed analytics
                 </p>
               </div>
               <div className="flex justify-center space-x-4">

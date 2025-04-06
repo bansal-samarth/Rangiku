@@ -27,6 +27,9 @@ const DashboardLayout = () => {
     { path: '/dashboard/visitors/pending', name: 'Pending', icon: <FaUserClock className="w-5 h-5" /> },
     { path: '/dashboard/visitors/check-in', name: 'Check In', icon: <FaUserCheck className="w-5 h-5" /> },
     { path: '/dashboard/visitors/check-out', name: 'Check Out', icon: <RiUserSharedFill className="w-5 h-5" /> },
+    { path: '/dashboard/meetings/request', name: 'Request Meet', icon: <RiUserSharedFill className="w-5 h-5" /> },
+    { path: '/dashboard/meetings/respond', name: 'Meet Notification', icon: <RiUserSharedFill className="w-5 h-5" /> },
+    { path: '/dashboard/meetings/status', name: 'Meeting Status', icon: <RiUserSharedFill className="w-5 h-5" /> },
   ];
 
   // Close mobile menu when changing routes
